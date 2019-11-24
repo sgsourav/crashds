@@ -2,7 +2,7 @@
 
 **Welcome to the World of Data Science with Python!**
 
-This is a crash course in Data Science, with Jupyter Notebook as the User Interface. I hope you'll it. -- [Sourav Sen Gupta](http://souravsengupta.com/)
+This is a crash course in Data Science, with Jupyter Notebook as the User Interface (IDE), prepared by [Sourav Sen Gupta](http://souravsengupta.com/).
 
 ---
 
