@@ -29,11 +29,11 @@ In case installing Anaconda for Python 3.8 is too heavy for you, and you know ho
 
 This material is heavilly inspired by two wonderful books on Data Science, as follows -- one theoretical and one practical. I highly encourage anyone interested in hands-on Data Science to read these two books thoroughly to get a wholesome overview of the subject.
 
-- [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by James, Witten, Hastie and Tibshirani
+- [Introduction to Statistical Learning](https://www.statlearning.com) by James, Witten, Hastie and Tibshirani
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 
 
-**Highly recommended** : [Python 3 Cheat Sheet](pythonCheatSheet.pdf) by [Laurent Pointal](https://perso.limsi.fr/pointal/python:memento). This 2-pager is a life-saver -- print and frame it! This material also borrows some ideas from the [Python Notebooks for ISLR](https://github.com/JWarmenhoven/ISLR-python). You are encouraged to check it out while you read the book [ISLR](http://faculty.marshall.usc.edu/gareth-james/ISL/).
+**Highly recommended** : [Python 3 Cheat Sheet](pythonCheatSheet.pdf) by [Laurent Pointal](https://perso.limsi.fr/pointal/python:memento). This 2-pager is a life-saver -- print and frame it! This material also borrows some ideas from the [Python Notebooks for ISLR](https://github.com/JWarmenhoven/ISLR-python). You are encouraged to check it out while you read the book [ISLR](https://www.statlearning.com).
 
 ---
 
